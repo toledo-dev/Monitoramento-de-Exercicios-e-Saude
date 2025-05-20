@@ -4,7 +4,7 @@
 
 This project was developed as part of the first-semester for Computer Science, in the subject of Algorithms and Programming I. The work follows specific restrictions defined in class, such as the prohibition of using dictionaries, tuples, or any external libraries. As a result, the implementation requires the use of lists, proper code organization using functions, and the application of conditional statements and loop structures.
 
-**PROBLEM SITUATION: **
+**PROBLEM SITUATION:**
 A local gym has decided to encourage its clients to monitor their workout routines and healthy habits. To achieve this, they requested a simple and practical application, run through the terminal, that allows users to track workouts, calculate health indicators, and provide useful information about performance and motivation.
 
 **NECESSARY SYSTEM FEATURES**
@@ -22,7 +22,7 @@ All functionalities should be available to the user through a terminal menu, all
 
 Este é um projeto desenvolvido para avaliação do 1º semestre de Ciência da Computação, na disciplina de Algoritmos e Programação I. O trabalho segue restrições específicas definidas em aula, como a proibição do uso de dicionários, tuplas ou qualquer biblioteca externa. Sendo assim, a implementação exige o uso de listas, a organização do código em funções, além da aplicação de estruturas condicionais e estruturas de repetição.
 
-**SITUAÇÃO PROBLEMA: **
+**SITUAÇÃO PROBLEMA:**
 Uma academia local decidiu incentivar seus clientes a monitorar sua rotina de exercícios e hábitos saudáveis. Para isso, solicitou uma aplicação simples e prática, executada pelo terminal, que permita acompanhar treinos, calcular indicadores de saúde e fornecer informações úteis sobre desempenho e motivação.
 
 **FUNCIONALIDADES REQUERIDAS NO SISTEMA**
