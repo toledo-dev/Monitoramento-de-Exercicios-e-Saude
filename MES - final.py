@@ -1,28 +1,5 @@
 import random
 
-"""
-Estrutura esperada:
-
-[
-    (idx = 0, domingo)
-    [
-        ["nome_exercicio", "tempo_gasto_em_min", calorias_queimadas],
-        ...
-    ],
-    ...,
-    (idx = 6, sabado)
-    [
-        ["nome_exercicio", "tempo_gasto_em_min", calorias_queimadas],
-        ...
-    ],
-]
-
-Assim:
-    (str)   nome_exercicio:     exercicios[dia_da_semana - 1][N][0]
-    (str)   tempo_gasto_em_min: exercicios[dia_da_semana - 1][N][1]
-    (float) calorias_queimadas: exercicios[dia_da_semana - 1][N][2]
-    (int)   dia_da_semana:      dia_da_semana - 1, indice do vetor
-"""
 # exercicios = [
 #     # Domingo
 #     [],
